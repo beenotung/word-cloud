@@ -1,0 +1,11 @@
+= word cloud
+
+toy project
+
+== Progress
+- [x] word count
+- [x] stop word
+- [ ] visualization
+
+== Acknowledgement
+The data.txt is copied from https://github.com/IBMPredictiveAnalytics/Word_Cloud_Visualization
